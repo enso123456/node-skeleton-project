@@ -1,1 +1,1 @@
-web: babel-node buildScripts/build.js
+web: node index.js
